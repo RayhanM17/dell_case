@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load data
-df = pd.read_csv('./rawdata/reviews.csv', index_col='id')
+df = pd.read_csv('../rawdata/reviews.csv', index_col='id')
 
 # Data Cleaning Steps ---------------------------------------------------------
 
